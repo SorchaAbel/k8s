@@ -1,2 +1,2 @@
 # k8s
-a kubernetes app
+A basic kubernetes app
